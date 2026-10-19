@@ -1,0 +1,58 @@
+{
+  "query": "刺局（豆瓣名：青面修罗）",
+  "title": "刺局（豆瓣名：青面修罗）",
+  "year": "",
+  "douban_id": "26926448",
+  "douban_url": "https://movie.douban.com/subject/26926448/",
+  "album_total": 21,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:24:38",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1674.jpg",
+      "width": 1080,
+      "height": 1674,
+      "kb": 379,
+      "desc": "豆瓣主海报",
+      "likes": 2,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2873014936.jpg",
+      "page": "https://movie.douban.com/photos/photo/2873014936/",
+      "md5": "a2a90dad805b92dd59867bc507aa0059"
+    },
+    {
+      "file": "02_海报_1080x1527.jpg",
+      "width": 1080,
+      "height": 1527,
+      "kb": 382,
+      "desc": "",
+      "likes": 1,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2884798819.jpg",
+      "page": "https://movie.douban.com/photos/photo/2884798819/",
+      "md5": "ab9346c4a85bf5ce890781ba6bec83d2"
+    },
+    {
+      "file": "03_海报_1080x1558.jpg",
+      "width": 1080,
+      "height": 1558,
+      "kb": 175,
+      "desc": "",
+      "likes": 1,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2928102910.jpg",
+      "page": "https://movie.douban.com/photos/photo/2928102910/",
+      "md5": "60a412ed87bd494503785c50426c8b3c"
+    },
+    {
+      "file": "04_海报_1080x1389.jpg",
+      "width": 1080,
+      "height": 1389,
+      "kb": 269,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2886945670.jpg",
+      "page": "https://movie.douban.com/photos/photo/2886945670/",
+      "md5": "065f02b1347fe71d9442cb81165bf12f"
+    }
+  ]
+}

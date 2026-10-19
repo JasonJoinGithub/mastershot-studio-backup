@@ -1,0 +1,58 @@
+{
+  "query": "虫图腾",
+  "title": "虫图腾",
+  "year": "",
+  "douban_id": "34779681",
+  "douban_url": "https://movie.douban.com/subject/34779681/",
+  "album_total": 18,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:25:40",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_海报_1080x1512.jpg",
+      "width": 1080,
+      "height": 1512,
+      "kb": 305,
+      "desc": "",
+      "likes": 1,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2574887568.jpg",
+      "page": "https://movie.douban.com/photos/photo/2574887568/",
+      "md5": "9663f60151dcfe2ad5648e1412e3f614"
+    },
+    {
+      "file": "02_海报_1080x1746.jpg",
+      "width": 1080,
+      "height": 1746,
+      "kb": 175,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2887148335.jpg",
+      "page": "https://movie.douban.com/photos/photo/2887148335/",
+      "md5": "e7f85abd546c65649acb875e82d88a0e"
+    },
+    {
+      "file": "03_海报_1080x1746.jpg",
+      "width": 1080,
+      "height": 1746,
+      "kb": 139,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2887148334.jpg",
+      "page": "https://movie.douban.com/photos/photo/2887148334/",
+      "md5": "1a4d1aec2ca8c64a49e1a1fb110f55e2"
+    },
+    {
+      "file": "04_海报_1080x1746.jpg",
+      "width": 1080,
+      "height": 1746,
+      "kb": 159,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2887148333.jpg",
+      "page": "https://movie.douban.com/photos/photo/2887148333/",
+      "md5": "48abf768dc23a139232918872f7b8841"
+    }
+  ]
+}

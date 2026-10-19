@@ -1,0 +1,58 @@
+{
+  "query": "我在时间尽头等你",
+  "title": "我在时间尽头等你",
+  "year": "",
+  "douban_id": "26661193",
+  "douban_url": "https://movie.douban.com/subject/26661193/",
+  "album_total": 38,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:25:14",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1512.jpg",
+      "width": 1080,
+      "height": 1512,
+      "kb": 344,
+      "desc": "豆瓣主海报",
+      "likes": 23,
+      "url": "https://img2.doubanio.com/view/photo/l/public/p2614225081.jpg",
+      "page": "https://movie.douban.com/photos/photo/2614225081/",
+      "md5": "92070581b3501a518d759f47bcc514ef"
+    },
+    {
+      "file": "02_定档海报_1080x1511.jpg",
+      "width": 1080,
+      "height": 1511,
+      "kb": 359,
+      "desc": "定档海报",
+      "likes": 10,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2574251474.jpg",
+      "page": "https://movie.douban.com/photos/photo/2574251474/",
+      "md5": "ccf7c72d5fa0815c7f2ae95691e15ff3"
+    },
+    {
+      "file": "03_海报_1080x1511.jpg",
+      "width": 1080,
+      "height": 1511,
+      "kb": 321,
+      "desc": "",
+      "likes": 2,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2579194906.jpg",
+      "page": "https://movie.douban.com/photos/photo/2579194906/",
+      "md5": "3dc3f694ff816c8888e7938f0ddf01f1"
+    },
+    {
+      "file": "04_我在时间尽头等你概念海报_1080x1512.jpg",
+      "width": 1080,
+      "height": 1512,
+      "kb": 127,
+      "desc": "我在时间尽头等你概念海报",
+      "likes": 5,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2559460427.jpg",
+      "page": "https://movie.douban.com/photos/photo/2559460427/",
+      "md5": "240e3e341208fa771b76eca1461b21db"
+    }
+  ]
+}

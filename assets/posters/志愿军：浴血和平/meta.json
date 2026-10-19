@@ -1,0 +1,58 @@
+{
+  "query": "志愿军：浴血和平",
+  "title": "志愿军：浴血和平",
+  "year": "",
+  "douban_id": "36296619",
+  "douban_url": "https://movie.douban.com/subject/36296619/",
+  "album_total": 16,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:23:58",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1724.jpg",
+      "width": 1080,
+      "height": 1724,
+      "kb": 481,
+      "desc": "豆瓣主海报",
+      "likes": 20,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2925014412.jpg",
+      "page": "https://movie.douban.com/photos/photo/2925014412/",
+      "md5": "1841c84eb6b4f299aced46fb582ab5a5"
+    },
+    {
+      "file": "02_海报_1080x1725.jpg",
+      "width": 1080,
+      "height": 1725,
+      "kb": 369,
+      "desc": "",
+      "likes": 10,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2925251779.jpg",
+      "page": "https://movie.douban.com/photos/photo/2925251779/",
+      "md5": "2768ed602e5ec8cdf07428582ad7e275"
+    },
+    {
+      "file": "03_张子枫_1080x1725.jpg",
+      "width": 1080,
+      "height": 1725,
+      "kb": 382,
+      "desc": "张子枫",
+      "likes": 10,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2925078006.jpg",
+      "page": "https://movie.douban.com/photos/photo/2925078006/",
+      "md5": "c7c6fb366b36cd3869341aeeece7b560"
+    },
+    {
+      "file": "04_周政杰_1080x1725.jpg",
+      "width": 1080,
+      "height": 1725,
+      "kb": 301,
+      "desc": "周政杰",
+      "likes": 7,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2925078026.jpg",
+      "page": "https://movie.douban.com/photos/photo/2925078026/",
+      "md5": "d89c6e1c496b3bd972e229ffe7b0852f"
+    }
+  ]
+}

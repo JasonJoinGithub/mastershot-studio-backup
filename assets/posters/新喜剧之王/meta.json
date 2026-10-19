@@ -1,0 +1,58 @@
+{
+  "query": "新喜剧之王",
+  "title": "新喜剧之王",
+  "year": "",
+  "douban_id": "4840388",
+  "douban_url": "https://movie.douban.com/subject/4840388/",
+  "album_total": 62,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:24:26",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1511.jpg",
+      "width": 1080,
+      "height": 1511,
+      "kb": 455,
+      "desc": "豆瓣主海报",
+      "likes": 10,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2550296634.jpg",
+      "page": "https://movie.douban.com/photos/photo/2550296634/",
+      "md5": "563f718c638bd74e4d8028d1da3cc8d6"
+    },
+    {
+      "file": "02_海报_1080x1363.jpg",
+      "width": 1080,
+      "height": 1363,
+      "kb": 300,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2613356120.jpg",
+      "page": "https://movie.douban.com/photos/photo/2613356120/",
+      "md5": "9327f0f55632033699afe599879372a6"
+    },
+    {
+      "file": "03_海报_1080x1508.jpg",
+      "width": 1080,
+      "height": 1508,
+      "kb": 294,
+      "desc": "",
+      "likes": 2,
+      "url": "https://img2.doubanio.com/view/photo/l/public/p2550279861.jpg",
+      "page": "https://movie.douban.com/photos/photo/2550279861/",
+      "md5": "af10ce3a68c64d398c99b274017fb519"
+    },
+    {
+      "file": "04_海报_1080x1511.jpg",
+      "width": 1080,
+      "height": 1511,
+      "kb": 429,
+      "desc": "",
+      "likes": 28,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2544301550.jpg",
+      "page": "https://movie.douban.com/photos/photo/2544301550/",
+      "md5": "2bfe91325e40e93e68aea13dde8ebaff"
+    }
+  ]
+}

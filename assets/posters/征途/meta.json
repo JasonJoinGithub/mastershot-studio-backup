@@ -1,0 +1,58 @@
+{
+  "query": "征途",
+  "title": "征途",
+  "year": "",
+  "douban_id": "26705567",
+  "douban_url": "https://movie.douban.com/subject/26705567/",
+  "album_total": 47,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:24:50",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1512.jpg",
+      "width": 1080,
+      "height": 1512,
+      "kb": 453,
+      "desc": "豆瓣主海报",
+      "likes": 19,
+      "url": "https://img2.doubanio.com/view/photo/l/public/p2613925251.jpg",
+      "page": "https://movie.douban.com/photos/photo/2613925251/",
+      "md5": "3ce2cc68093243adaf697f6a71ffc72e"
+    },
+    {
+      "file": "02_爱奇艺采用海报_1080x1495.jpg",
+      "width": 1080,
+      "height": 1495,
+      "kb": 220,
+      "desc": "爱奇艺采用海报",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2628184863.jpg",
+      "page": "https://movie.douban.com/photos/photo/2628184863/",
+      "md5": "60d1847a2568fc7d683d1c0c6d777d00"
+    },
+    {
+      "file": "03_电影《征途》”活下去“版先导海报_1080x1511.jpg",
+      "width": 1080,
+      "height": 1511,
+      "kb": 263,
+      "desc": "电影《征途》”活下去“版先导海报",
+      "likes": 2,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2548648792.jpg",
+      "page": "https://movie.douban.com/photos/photo/2548648792/",
+      "md5": "d80b236d7cbe0fe80a4cc997f51fca5c"
+    },
+    {
+      "file": "04_电影《征途》先导海报_1080x1511.jpg",
+      "width": 1080,
+      "height": 1511,
+      "kb": 245,
+      "desc": "电影《征途》先导海报",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2575156720.jpg",
+      "page": "https://movie.douban.com/photos/photo/2575156720/",
+      "md5": "709e420d9ab2eb654ab202fdf1bee651"
+    }
+  ]
+}

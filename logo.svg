@@ -1,0 +1,9 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="#0C0D0D"/>
+  <path d="M40 64L80 24L120 64L80 104L40 64Z" stroke="#E8E5DE" stroke-width="8"/>
+  <path d="M80 64L120 24L160 64L120 104L80 64Z" fill="#E8E5DE"/>
+  <path d="M120 64L160 24L200 64L160 104L120 64Z" stroke="#E8E5DE" stroke-width="8"/>
+  <path d="M40 160L80 120L120 160L80 200L40 160Z" stroke="#EF5B35" stroke-width="8"/>
+  <path d="M80 160L120 120L160 160L120 200L80 160Z" stroke="#E8E5DE" stroke-width="8"/>
+  <path d="M120 160L160 120L200 160L160 200L120 160Z" stroke="#EF5B35" stroke-width="8"/>
+</svg>

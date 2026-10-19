@@ -1,0 +1,58 @@
+{
+  "query": "志愿军：雄兵出击",
+  "title": "志愿军：雄兵出击",
+  "year": "",
+  "douban_id": "35496350",
+  "douban_url": "https://movie.douban.com/subject/35496350/",
+  "album_total": 79,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:23:34",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1800.jpg",
+      "width": 1080,
+      "height": 1800,
+      "kb": 328,
+      "desc": "豆瓣主海报",
+      "likes": 46,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2898557049.jpg",
+      "page": "https://movie.douban.com/photos/photo/2898557049/",
+      "md5": "0148841032a01fe5409cc4bbacd6bbef"
+    },
+    {
+      "file": "02_海报_1080x1520.jpg",
+      "width": 1080,
+      "height": 1520,
+      "kb": 340,
+      "desc": "",
+      "likes": 15,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2898514689.jpg",
+      "page": "https://movie.douban.com/photos/photo/2898514689/",
+      "md5": "a5f05e9ed1e77309eb91f259cec6f6ac"
+    },
+    {
+      "file": "03_中国巨幕专属海报_1080x1528.jpg",
+      "width": 1080,
+      "height": 1528,
+      "kb": 386,
+      "desc": "中国巨幕专属海报",
+      "likes": 5,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2898638440.jpg",
+      "page": "https://movie.douban.com/photos/photo/2898638440/",
+      "md5": "46a51dc14de9656b74d2a51ef7f8667b"
+    },
+    {
+      "file": "04_概念海报_1080x1532.jpg",
+      "width": 1080,
+      "height": 1532,
+      "kb": 416,
+      "desc": "概念海报",
+      "likes": 23,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2890866038.jpg",
+      "page": "https://movie.douban.com/photos/photo/2890866038/",
+      "md5": "53e67284f82be60d54230ce8eefcbc07"
+    }
+  ]
+}

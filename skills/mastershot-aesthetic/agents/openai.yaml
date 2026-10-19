@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mastershot Aesthetic"
+  short_description: "Mastershot Studio 电影工作室视觉与交互美学"
+  default_prompt: "使用 $mastershot-aesthetic 设计或改进具有电影工作室质感的个人作品集网站。"

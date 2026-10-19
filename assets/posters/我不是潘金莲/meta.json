@@ -1,0 +1,58 @@
+{
+  "query": "我不是潘金莲",
+  "title": "我不是潘金莲",
+  "year": "",
+  "douban_id": "26630781",
+  "douban_url": "https://movie.douban.com/subject/26630781/",
+  "album_total": 99,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:25:02",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1538.jpg",
+      "width": 1080,
+      "height": 1538,
+      "kb": 282,
+      "desc": "豆瓣主海报",
+      "likes": 38,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2408342182.jpg",
+      "page": "https://movie.douban.com/photos/photo/2408342182/",
+      "md5": "09a8520baa03eb14e90b8ec1f4032a8f"
+    },
+    {
+      "file": "02_海报_1080x1431.jpg",
+      "width": 1080,
+      "height": 1431,
+      "kb": 350,
+      "desc": "",
+      "likes": 6,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2462476014.jpg",
+      "page": "https://movie.douban.com/photos/photo/2462476014/",
+      "md5": "5c027600dc58225cc2de149e9ea28b16"
+    },
+    {
+      "file": "03_海报_1080x1440.jpg",
+      "width": 1080,
+      "height": 1440,
+      "kb": 127,
+      "desc": "",
+      "likes": 2,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2493723530.jpg",
+      "page": "https://movie.douban.com/photos/photo/2493723530/",
+      "md5": "88d83e7250749daa0529334faf244140"
+    },
+    {
+      "file": "04_海报_1080x1513.jpg",
+      "width": 1080,
+      "height": 1513,
+      "kb": 228,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2889416100.jpg",
+      "page": "https://movie.douban.com/photos/photo/2889416100/",
+      "md5": "126d96cbbde060a22a0ac7825a6c12b1"
+    }
+  ]
+}

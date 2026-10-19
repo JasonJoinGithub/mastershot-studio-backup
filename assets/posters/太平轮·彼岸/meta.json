@@ -1,0 +1,58 @@
+{
+  "query": "太平轮·彼岸",
+  "title": "太平轮·彼岸",
+  "year": "",
+  "douban_id": "25956520",
+  "douban_url": "https://movie.douban.com/subject/25956520/",
+  "album_total": 46,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:23:23",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1512.jpg",
+      "width": 1080,
+      "height": 1512,
+      "kb": 306,
+      "desc": "豆瓣主海报",
+      "likes": 9,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2258079139.jpg",
+      "page": "https://movie.douban.com/photos/photo/2258079139/",
+      "md5": "c69bd189e6d7c8094176b028dcff095b"
+    },
+    {
+      "file": "02_海报_1080x1541.jpg",
+      "width": 1080,
+      "height": 1541,
+      "kb": 346,
+      "desc": "",
+      "likes": 2,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2262150472.jpg",
+      "page": "https://movie.douban.com/photos/photo/2262150472/",
+      "md5": "e6de7d4956b76759be6791995e974e5e"
+    },
+    {
+      "file": "03_海报_1080x1541.jpg",
+      "width": 1080,
+      "height": 1541,
+      "kb": 321,
+      "desc": "",
+      "likes": 3,
+      "url": "https://img2.doubanio.com/view/photo/l/public/p2262150681.jpg",
+      "page": "https://movie.douban.com/photos/photo/2262150681/",
+      "md5": "5871fd4aaf96da63ac7da3b7b4409474"
+    },
+    {
+      "file": "04_海报_1080x1728.jpg",
+      "width": 1080,
+      "height": 1728,
+      "kb": 98,
+      "desc": "",
+      "likes": 1,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2249802327.jpg",
+      "page": "https://movie.douban.com/photos/photo/2249802327/",
+      "md5": "f4a1ec3433f9834481d93034e25f805b"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "query": "志愿军：存亡之战",
+  "title": "志愿军：存亡之战",
+  "year": "",
+  "douban_id": "36296618",
+  "douban_url": "https://movie.douban.com/subject/36296618/",
+  "album_total": 64,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:23:46",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1544.jpg",
+      "width": 1080,
+      "height": 1544,
+      "kb": 373,
+      "desc": "豆瓣主海报",
+      "likes": 43,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2913374899.jpg",
+      "page": "https://movie.douban.com/photos/photo/2913374899/",
+      "md5": "47c14c003013916181f7770ac9fab91b"
+    },
+    {
+      "file": "02_海报_1080x1515.jpg",
+      "width": 1080,
+      "height": 1515,
+      "kb": 382,
+      "desc": "",
+      "likes": 1,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2913325667.jpg",
+      "page": "https://movie.douban.com/photos/photo/2913325667/",
+      "md5": "1fccf4fe28868ece2b718ea93984e13e"
+    },
+    {
+      "file": "03_海报_1080x1619.jpg",
+      "width": 1080,
+      "height": 1619,
+      "kb": 167,
+      "desc": "",
+      "likes": 5,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2907438333.jpg",
+      "page": "https://movie.douban.com/photos/photo/2907438333/",
+      "md5": "812da1a53f0725f5047df9b89d9cdf8d"
+    },
+    {
+      "file": "04_海报_1080x1620.jpg",
+      "width": 1080,
+      "height": 1620,
+      "kb": 391,
+      "desc": "",
+      "likes": 21,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2913553415.jpg",
+      "page": "https://movie.douban.com/photos/photo/2913553415/",
+      "md5": "c3070feb2cd297ed10b3debd6cd923f3"
+    }
+  ]
+}

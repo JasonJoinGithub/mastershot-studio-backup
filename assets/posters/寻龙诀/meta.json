@@ -1,0 +1,58 @@
+{
+  "query": "寻龙诀",
+  "title": "寻龙诀",
+  "year": "",
+  "douban_id": "3077412",
+  "douban_url": "https://movie.douban.com/subject/3077412/",
+  "album_total": 74,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:24:13",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_海报_1080x1354.jpg",
+      "width": 1080,
+      "height": 1354,
+      "kb": 277,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2903890960.jpg",
+      "page": "https://movie.douban.com/photos/photo/2903890960/",
+      "md5": "cc0e7c16343e3bb18a5e29a8856c386b"
+    },
+    {
+      "file": "02_海报_1080x1487.jpg",
+      "width": 1080,
+      "height": 1487,
+      "kb": 202,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2903891298.jpg",
+      "page": "https://movie.douban.com/photos/photo/2903891298/",
+      "md5": "774ead33fc4d9b374806987bab305279"
+    },
+    {
+      "file": "03_寻龙诀--发行海报竖版终极版_1080x1508.jpg",
+      "width": 1080,
+      "height": 1508,
+      "kb": 487,
+      "desc": "寻龙诀--发行海报竖版终极版",
+      "likes": 15,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2293020155.jpg",
+      "page": "https://movie.douban.com/photos/photo/2293020155/",
+      "md5": "66b017e6edd1364a505c373a2bdcfef3"
+    },
+    {
+      "file": "04_寻龙诀＃倒计时100天海报_1080x1509.jpg",
+      "width": 1080,
+      "height": 1509,
+      "kb": 454,
+      "desc": "寻龙诀＃倒计时100天海报",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2320308433.jpg",
+      "page": "https://movie.douban.com/photos/photo/2320308433/",
+      "md5": "926bad4fea14d152ad33559dabe8d52c"
+    }
+  ]
+}

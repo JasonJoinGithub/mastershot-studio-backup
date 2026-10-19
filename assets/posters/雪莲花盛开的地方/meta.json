@@ -1,0 +1,47 @@
+{
+  "query": "雪莲花盛开的地方",
+  "title": "雪莲花盛开的地方",
+  "year": "",
+  "douban_id": "34605017",
+  "douban_url": "https://movie.douban.com/subject/34605017/",
+  "album_total": 4,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:25:56",
+  "want": 4,
+  "got": 3,
+  "posters": [
+    {
+      "file": "01_雪莲花盛开的地方_1080x1728.jpg",
+      "width": 1080,
+      "height": 1728,
+      "kb": 593,
+      "desc": "雪莲花盛开的地方",
+      "likes": 0,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2891664737.jpg",
+      "page": "https://movie.douban.com/photos/photo/2891664737/",
+      "md5": "1ba69e5cba423c05ace5af798ecfa4e2"
+    },
+    {
+      "file": "02_豆瓣主海报_661x864.jpg",
+      "width": 661,
+      "height": 864,
+      "kb": 110,
+      "desc": "豆瓣主海报",
+      "likes": 1,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2891732179.jpg",
+      "page": "https://movie.douban.com/photos/photo/2891732179/",
+      "md5": "17b5ba69089c080f87d4959c7d18c2e2"
+    },
+    {
+      "file": "03_海报_670x1080.jpg",
+      "width": 670,
+      "height": 1080,
+      "kb": 123,
+      "desc": "",
+      "likes": 0,
+      "url": "https://img2.doubanio.com/view/photo/l/public/p2684582491.jpg",
+      "page": "https://movie.douban.com/photos/photo/2684582491/",
+      "md5": "9886b6d08e857fed68e175c14196ff39"
+    }
+  ]
+}

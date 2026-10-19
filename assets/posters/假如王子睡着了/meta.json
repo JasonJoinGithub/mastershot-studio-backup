@@ -1,0 +1,58 @@
+{
+  "query": "假如王子睡着了",
+  "title": "假如王子睡着了",
+  "year": "",
+  "douban_id": "26336256",
+  "douban_url": "https://movie.douban.com/subject/26336256/",
+  "album_total": 19,
+  "resolved_by": "指定链接/ID",
+  "fetched_at": "2026-10-15 22:25:26",
+  "want": 4,
+  "got": 4,
+  "posters": [
+    {
+      "file": "01_豆瓣主海报_1080x1512.jpg",
+      "width": 1080,
+      "height": 1512,
+      "kb": 207,
+      "desc": "豆瓣主海报",
+      "likes": 4,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2506319627.jpg",
+      "page": "https://movie.douban.com/photos/photo/2506319627/",
+      "md5": "587d74140cdf17d32ffbe227a1bc3c39"
+    },
+    {
+      "file": "02_“纸船”版海报_1080x1512.jpg",
+      "width": 1080,
+      "height": 1512,
+      "kb": 286,
+      "desc": "“纸船”版海报",
+      "likes": 1,
+      "url": "https://img3.doubanio.com/view/photo/l/public/p2504987600.jpg",
+      "page": "https://movie.douban.com/photos/photo/2504987600/",
+      "md5": "09f8de25068ae667dcdfee2b526c33c8"
+    },
+    {
+      "file": "03_《假如王子睡着了》竖版海报_1080x1660.jpg",
+      "width": 1080,
+      "height": 1660,
+      "kb": 1384,
+      "desc": "《假如王子睡着了》竖版海报",
+      "likes": 1,
+      "url": "https://img9.doubanio.com/view/photo/l/public/p2459472564.jpg",
+      "page": "https://movie.douban.com/photos/photo/2459472564/",
+      "md5": "5fe4ec4abbf02771e26d3ff7b564200f"
+    },
+    {
+      "file": "04_视线海报-陈柏霖_1063x1488.jpg",
+      "width": 1063,
+      "height": 1488,
+      "kb": 990,
+      "desc": "视线海报-陈柏霖",
+      "likes": 1,
+      "url": "https://img2.doubanio.com/view/photo/l/public/p2505621011.jpg",
+      "page": "https://movie.douban.com/photos/photo/2505621011/",
+      "md5": "d92546fe33c2d090c5c60197b14619a9"
+    }
+  ]
+}
